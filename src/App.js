@@ -1,29 +1,20 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import IconContainer from "./components/IconContainer";
+import { Switch, Route } from "react-router-dom";
+import Welcome from "./components/Welcome";
+import Error404 from "./components/Error404";
 
 function App() {
   // The fake data instead of the data which should get from DB.
   let callStatus = ["successful", "unsuccessful", "not yet"];
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-        <IconContainer hasMet={true} callStatus={callStatus[0]} />
-      </header>
+    <div>
+      <Switch>
+        <Route path="/" component={Welcome} exact />
+        <Route path="*" component={Error404} />
+      </Switch>
     </div>
   );
 }

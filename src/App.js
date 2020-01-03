@@ -5,6 +5,7 @@ import { Switch, Route } from "react-router-dom";
 import Welcome from "./components/Welcome";
 import Error404 from "./components/Error404";
 import ApplicantName from "./components/ApplicantLabel";
+import ApplicantDetailPage from "./components/ApplicantDetailPage";
 
 function App() {
   // The fake data instead of the data which should get from DB.
@@ -21,6 +22,7 @@ function App() {
             <ApplicantName {...props} applicantInfo={applicantInfo} />
           )}
         />
+        <Route path="/applicant/:id" component={ApplicantDetailPage} />
         <Route path="*" component={Error404} />
       </Switch>
     </div>

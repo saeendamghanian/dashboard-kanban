@@ -9,6 +9,10 @@ class NavBar extends Component {
         <Link to="/">Home</Link>
         <Separator />
         <Link to="/kanban">Kanban View</Link>
+        <Separator />
+        <Link to="/list">List View</Link>
+        <Separator />
+        <Link to="/applicant/:id">Applicant Detail Page</Link>
       </div>
     );
   }

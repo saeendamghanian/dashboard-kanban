@@ -1,5 +1,5 @@
 import React from "react";
-import ApplicantDetailPageTitle from "./ApplicantDetailPageTitle";
+import ApplicantDetailPageTitle from "../components/ApplicantDetailPageTitle";
 
 class ApplicantDetailPageContainer extends React.Component {
   render() {

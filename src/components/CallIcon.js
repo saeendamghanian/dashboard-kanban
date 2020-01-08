@@ -11,7 +11,7 @@ const CallIcon = props => {
   };
   let CallIconColor;
 
-  switch (props.callStatus) {
+  switch (props.student.phoneCalls[0]) {
     case "successful":
       CallIconColor = colors.successful;
       break;

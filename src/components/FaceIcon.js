@@ -3,7 +3,7 @@ import MoodRoundedIcon from "@material-ui/icons/MoodRounded";
 
 const FaceIcon = props => {
   let faceIconVisibility;
-  if (!props.hasMet) {
+  if (!props.student.isAsylumSeekerOrRefugee) {
     faceIconVisibility = "hidden";
   }
 

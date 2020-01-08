@@ -1,10 +1,10 @@
 import React from "react";
 import "./App.css";
-import { Switch, Route } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Welcome from "./components/Welcome";
 import Error404 from "./components/Error404";
 import ApplicantDetailPageContainer from "./containers/ApplicantDetailPageContainer";
-import { BrowserRouter } from "react-router-dom";
+import KanbanPage from "./components/KanbanPage";
 
 function App() {
   return (
@@ -12,6 +12,7 @@ function App() {
       <BrowserRouter>
         <Switch>
           <Route path="/" component={Welcome} exact />
+          <Route path="/kanban" component={KanbanPage} />
           <Route
             path="/applicant/:id"
             component={ApplicantDetailPageContainer}

@@ -2,7 +2,7 @@ import React from "react";
 import CallRoundedIcon from "@material-ui/icons/CallRounded";
 import { green, yellow, red } from "@material-ui/core/colors";
 
-const CallIcon = props => {
+const CallIcon = ({ student }) => {
   // The color pool for the different modes of call icon.
   let colors = {
     successful: green[500],
@@ -11,7 +11,7 @@ const CallIcon = props => {
   };
   let CallIconColor;
 
-  switch (props.student.phoneCalls[0]) {
+  switch (student.phoneCalls[0]) {
     case "successful":
       CallIconColor = colors.successful;
       break;

@@ -2,9 +2,9 @@ import React from "react";
 import ApplicantLabel from "./ApplicantLabel";
 import IconContainer from "./IconContainer";
 
-const Cards = props => {
-  return props.students.map(student => (
-    <div>
+const Cards = ({ students }) => {
+  return students.map(student => (
+    <div className="card">
       <ApplicantLabel student={student} />
       <IconContainer student={student} />
     </div>

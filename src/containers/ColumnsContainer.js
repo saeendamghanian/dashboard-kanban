@@ -9,31 +9,33 @@ export default class ColumnsContainer extends React.Component {
   };
 
   async componentDidMount() {
-    let stepsData, studentsData;
-
-    async function getData() {
+    const getData = async () => {
       try {
-        stepsData = await getSteps();
-        studentsData = await getStudents();
+        const [stepsData, studentsData] = await Promise.all([
+          getSteps(),
+          getStudents()
+        ]);
 
         console.log(stepsData);
         console.log(studentsData);
 
         return {
-          stepsData: stepsData,
-          studentsData: studentsData
+          stepsData,
+          studentsData
         };
       } catch (error) {
         console.log("Error happens");
-      }
-    }
 
-    (async () => {
-      this.setState({
-        stepsList: await (await getData()).stepsData,
-        studentsList: await (await getData()).studentsData
-      });
-    })();
+        return {};
+      }
+    };
+
+    const { stepsData, studentsData } = await getData();
+
+    this.setState({
+      stepsList: stepsData,
+      studentsList: studentsData
+    });
   }
 
   render() {
@@ -46,6 +48,6 @@ export default class ColumnsContainer extends React.Component {
       />
     ));
 
-    return <div>{columns}</div>;
+    return <div className="column-container">{columns}</div>;
   }
 }

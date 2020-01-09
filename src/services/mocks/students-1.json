@@ -1,0 +1,521 @@
+[
+  {
+    "_id": "5c51dd106a3791001cd3a6f0",
+    "userId": "5c51dc816a3791001cd3a6ef",
+    "fullName": "Corina Angel",
+    "email": "corina.angel@example.com",
+    "city": "rome",
+    "tel": "3334455666",
+    "experience": "Intermediate",
+    "hearAbout": "job office",
+    "gender": "male",
+    "currentlyEmployed": "Unemployed",
+    "cityId": "5c55976d6a3791001cd3a774",
+    "isAsylumSeekerOrRefugee": false,
+    "phoneCalls": ["successful"],
+    "updatedAt": "2019-05-23T18:09:32.149Z",
+    "createdAt": "2019-01-30T17:21:20.000Z",
+    "steps": []
+  },
+  {
+    "_id": "5c51face6a3791001cd3a6f6",
+    "userId": "5c51f9ac6a3791001cd3a6f5",
+    "fullName": "Dina Onder",
+    "email": "dina.onder@example.com",
+    "city": "Roma",
+    "tel": "3334455666",
+    "experience": "None",
+    "hearAbout": "through a friend",
+    "gender": "male",
+    "currentlyEmployed": "Unemployed",
+    "cityId": "5c55976d6a3791001cd3a774",
+    "isAsylumSeekerOrRefugee": true,
+    "phoneCalls": ["unsuccessful"],
+    "updatedAt": "2019-05-23T18:09:32.149Z",
+    "createdAt": "2019-01-30T19:28:14.000Z",
+    "steps": [
+      {
+        "status": "Rejected",
+        "_id": "5cc8c4546796cb329cef4787",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a88efbf8e118bb0e9e56",
+        "messages": [
+          {
+            "_id": "5cc8c4546796cb329cef4788",
+            "senderName": "Afshin Ahmadian",
+            "message": "You are still at step one, i have already approved your CSS certificate from SoloLearn",
+            "createdAt": "2019-02-14T20:31:43.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4546796cb329cef4789",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Rejected",
+            "createdAt": "2019-02-14T17:30:16.000Z"
+          }
+        ],
+        "createdAt": "2019-04-30T21:55:32.221Z",
+        "updatedAt": "2019-11-03T20:27:54.866Z",
+        "number": 2,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "HTML and CSS Basic Tutorials",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373506989.jpg",
+        "description": "Please read and follow the instructions below in order to complete this step. You should aim to complete this step in 10 days.",
+        "instructions": "<ol><li>Follow the link and register at freeCodeCamp using this link:&nbsp;<a href=\"https://learn.freecodecamp.org/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/</a></li><li>Make sure you are logged in anytime you work on freeCodeCamp, otherwise your progress will be lost.</li><li>Complete the following tutorials on FreeCodeCamp:</li></ol><ul><li class=\"ql-indent-1\">Basic HTML and HTML5</li><li class=\"ql-indent-1\">Basic CSS, Applied Visual Design</li><li class=\"ql-indent-1\">Applied Accessibility</li><li class=\"ql-indent-1\">Responsive Web Design Principles</li><li class=\"ql-indent-1\">CSS Flex box</li></ul><p><u>Once you have completed the tutorials, go to your profile on FreeCodeCamp and change all your privacy settings to public:</u></p><ul><li class=\"ql-indent-1\">Go to settings:<u> </u><a href=\"https://www.freecodecamp.org/settings\" target=\"_blank\"><u>https://www.freecodecamp.org/settings</u></a></li><li class=\"ql-indent-1\">In Privacy Settings, set all the fields to public (including my profile, my points, my time line).</li><li class=\"ql-indent-1\">On the top of the page go to 'Show me my public portfolio'</li><li class=\"ql-indent-1\">Paste the URL link in the field below and click Submit.</li><li class=\"ql-indent-1\">The link should somethink like this (the last part is your username): <em>https://www.freecodecamp.org/fccfa2c11d1.</em></li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": [
+          {
+            "_id": "5dbf3ab4aa4c52001bb3a087",
+            "text": "Ensure FCC profile has a minimum score of 160",
+            "createdAt": "2019-11-03T20:38:00.346Z"
+          },
+          {
+            "_id": "5dbf3ab4aa4c52001bb3a086",
+            "text": "In order to see the score the profile needs to be set to public",
+            "createdAt": "2019-11-03T20:38:10.630Z"
+          }
+        ]
+      },
+      {
+        "status": "Submitted",
+        "_id": "5cc8c4536796cb329cef4705",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a8bafbf8e118bb0e9e57",
+        "messages": [],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4706",
+            "url": "https://codepen.io/Ebrima/pen/wNbZRz",
+            "status": "Submitted",
+            "createdAt": "2019-03-10T13:19:48.000Z"
+          }
+        ],
+        "createdAt": "2019-04-30T21:55:31.314Z",
+        "updatedAt": "2019-11-03T20:27:54.866Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": [
+          {
+            "_id": "5dbf3b095c0596001b12e02b",
+            "text": "Page includes a title",
+            "createdAt": "2019-11-03T20:39:00.779Z"
+          },
+          {
+            "_id": "5dbf3b095c0596001b12e02a",
+            "text": "Page include an image",
+            "createdAt": "2019-11-03T20:39:09.084Z"
+          },
+          {
+            "_id": "5dbf3b095c0596001b12e029",
+            "text": "Image includes a caption",
+            "createdAt": "2019-11-03T20:39:16.581Z"
+          },
+          {
+            "_id": "5dbf3b095c0596001b12e028",
+            "text": "Page includes link opening a new website",
+            "createdAt": "2019-11-03T20:39:24.431Z"
+          },
+          {
+            "_id": "5dbf3b095c0596001b12e027",
+            "text": "The html/css code is not a copy of the FCC sample document",
+            "createdAt": "2019-11-03T20:39:33.072Z"
+          }
+        ]
+      },
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-04-30T21:55:31.433Z",
+        "updatedAt": "2019-11-03T20:27:54.866Z",
+        "number": 1,
+        "optional": false,
+        "name": "Sololearn",
+        "header": "HTML, CSS and JS",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373470617.jpg",
+        "description": "Please read and follow the instructions below in order to complete this step. You can do these steps on your smartphone without access to a laptop.",
+        "instructions": "<p>Note: this step is optional for applicants with access to computer/laptop. We recommend for all applicants to practice by completing the HTML and CSS tutorials</p><ul><li>Follow the link and download the Sololearn app. Link:&nbsp;<a href=\"https://sololearn.com/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://sololearn.com</a></li><li>Make sure you are logged in anytime you work on sololearn, otherwise your progress will be lost.</li><li>Complete HTML, CSS and JavaScript Fundamentals tutorials.</li><li>Once you have completed both tutorials fully, Sololearn will generate a certificate for you. Copy the Verification URL of each certificate into a relevant field below. A certificate link will look like this:<em> https://www.sololearn.com/Certificate/1234-12345678/pdf/.</em></li><li>If you do not have access to a laptop, submitting the three steps will make you eligible to a laptop loan, so that you can continue with the application process. Please send an email to your closest CYF branch</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      },
+      {
+        "status": "Submitted",
+        "_id": "5cc8c4566796cb329cef47cc",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a8eefbf8e118bb0e9e58",
+        "messages": [],
+        "urls": [
+          {
+            "_id": "5cc8c4566796cb329cef47cd",
+            "url": "https://codepen.io/Ebrima/pen/mgrRNb",
+            "status": "Submitted",
+            "createdAt": "2019-04-07T20:15:14.000Z"
+          }
+        ],
+        "createdAt": "2019-04-30T21:55:34.164Z",
+        "updatedAt": "2019-11-03T20:27:54.866Z",
+        "number": 4.1,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Landing Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373579628.jpg",
+        "description": "This step challenges you to build a product landing page.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-product-landing-page</a></li><li>Implement everything you have learned in Steps 2 and 3.</li><li>This step will be assessed so make sure to complete it to the best of your abilities.</li><li>We recommend you to read the CYF webpage guideline document <a href=\"https://docs.google.com/presentation/d/1WlPrmTLsj8KWElBzV-QXjihmSknZe8HODX6SKc_JfIM/edit#slide=id.g6597527f42_0_9\" target=\"_blank\">HERE</a></li><li>Ensure the page includes the test script (as explained in the guideline)</li><li>Please do not copy the HTML/CSS code of the FCC sample page!</li><li>When your web page is complete, copy and paste the link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": [
+          {
+            "_id": "5dbf3b6d5c0596001b12e034",
+            "text": "The page includes the test script (as explained in the guideline)",
+            "createdAt": "2019-11-03T20:40:11.772Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e033",
+            "text": "The html/css code is not a copy of the FCC sample document",
+            "createdAt": "2019-11-03T20:40:19.029Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e032",
+            "text": "At least 1 link on the page that goes to an external site",
+            "createdAt": "2019-11-03T20:40:27.131Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e031",
+            "text": "The page includes CSS",
+            "createdAt": "2019-11-03T20:40:34.313Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e030",
+            "text": "The page includes a header",
+            "createdAt": "2019-11-03T20:40:41.705Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e02f",
+            "text": "The page includes a navigation bar",
+            "createdAt": "2019-11-03T20:40:50.323Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e02e",
+            "text": "The header includes an image",
+            "createdAt": "2019-11-03T20:40:57.538Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e02d",
+            "text": "The page includes a form",
+            "createdAt": "2019-11-03T20:41:06.152Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e02c",
+            "text": "The page includes a video",
+            "createdAt": "2019-11-03T20:41:14.321Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5c5229336a3791001cd3a6fe",
+    "userId": "5c5228386a3791001cd3a6fd",
+    "fullName": "Myrle Dobson",
+    "email": "myrle.dobson@example.com",
+    "city": "marka",
+    "tel": "3334455666",
+    "experience": "Basic",
+    "hearAbout": "good",
+    "gender": "male",
+    "currentlyEmployed": "Unemployed",
+    "cityId": "5c55976d6a3791001cd3a774",
+    "isAsylumSeekerOrRefugee": true,
+    "phoneCalls": ["not yet"],
+    "updatedAt": "2019-05-23T18:09:32.149Z",
+    "createdAt": "2019-01-30T22:46:11.000Z",
+    "steps": [
+      {
+        "status": "Rejected",
+        "_id": "5cc8c4536796cb329cef46d4",
+        "userId": "5c5228386a3791001cd3a6fd",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef46d5",
+            "url": "i already finished step 1",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T22:49:09.000Z"
+          }
+        ],
+        "createdAt": "2019-04-30T21:55:31.204Z",
+        "updatedAt": "2019-11-03T20:27:54.866Z",
+        "number": 1,
+        "optional": false,
+        "name": "Sololearn",
+        "header": "HTML, CSS and JS",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373470617.jpg",
+        "description": "Please read and follow the instructions below in order to complete this step. You can do these steps on your smartphone without access to a laptop.",
+        "instructions": "<p>Note: this step is optional for applicants with access to computer/laptop. We recommend for all applicants to practice by completing the HTML and CSS tutorials</p><ul><li>Follow the link and download the Sololearn app. Link:&nbsp;<a href=\"https://sololearn.com/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://sololearn.com</a></li><li>Make sure you are logged in anytime you work on sololearn, otherwise your progress will be lost.</li><li>Complete HTML, CSS and JavaScript Fundamentals tutorials.</li><li>Once you have completed both tutorials fully, Sololearn will generate a certificate for you. Copy the Verification URL of each certificate into a relevant field below. A certificate link will look like this:<em> https://www.sololearn.com/Certificate/1234-12345678/pdf/.</em></li><li>If you do not have access to a laptop, submitting the three steps will make you eligible to a laptop loan, so that you can continue with the application process. Please send an email to your closest CYF branch</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      },
+      {
+        "status": "Rejected",
+        "_id": "5cc8c4546796cb329cef478a",
+        "userId": "5c5228386a3791001cd3a6fd",
+        "stepId": "5cb8a88efbf8e118bb0e9e56",
+        "messages": [],
+        "urls": [
+          {
+            "_id": "5cc8c4546796cb329cef478d",
+            "url": "learn.freecodecamp.org/",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T23:23:37.000Z"
+          },
+          {
+            "_id": "5cc8c4546796cb329cef478c",
+            "url": "learn.freecodecamp.org",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T23:24:46.000Z"
+          },
+          {
+            "_id": "5cc8c4546796cb329cef478b",
+            "url": "step2",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T23:25:48.000Z"
+          }
+        ],
+        "createdAt": "2019-04-30T21:55:32.251Z",
+        "updatedAt": "2019-11-03T20:27:54.866Z",
+        "number": 2,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "HTML and CSS Basic Tutorials",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373506989.jpg",
+        "description": "Please read and follow the instructions below in order to complete this step. You should aim to complete this step in 10 days.",
+        "instructions": "<ol><li>Follow the link and register at freeCodeCamp using this link:&nbsp;<a href=\"https://learn.freecodecamp.org/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/</a></li><li>Make sure you are logged in anytime you work on freeCodeCamp, otherwise your progress will be lost.</li><li>Complete the following tutorials on FreeCodeCamp:</li></ol><ul><li class=\"ql-indent-1\">Basic HTML and HTML5</li><li class=\"ql-indent-1\">Basic CSS, Applied Visual Design</li><li class=\"ql-indent-1\">Applied Accessibility</li><li class=\"ql-indent-1\">Responsive Web Design Principles</li><li class=\"ql-indent-1\">CSS Flex box</li></ul><p><u>Once you have completed the tutorials, go to your profile on FreeCodeCamp and change all your privacy settings to public:</u></p><ul><li class=\"ql-indent-1\">Go to settings:<u> </u><a href=\"https://www.freecodecamp.org/settings\" target=\"_blank\"><u>https://www.freecodecamp.org/settings</u></a></li><li class=\"ql-indent-1\">In Privacy Settings, set all the fields to public (including my profile, my points, my time line).</li><li class=\"ql-indent-1\">On the top of the page go to 'Show me my public portfolio'</li><li class=\"ql-indent-1\">Paste the URL link in the field below and click Submit.</li><li class=\"ql-indent-1\">The link should somethink like this (the last part is your username): <em>https://www.freecodecamp.org/fccfa2c11d1.</em></li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": [
+          {
+            "_id": "5dbf3ab4aa4c52001bb3a087",
+            "text": "Ensure FCC profile has a minimum score of 160",
+            "createdAt": "2019-11-03T20:38:00.346Z"
+          },
+          {
+            "_id": "5dbf3ab4aa4c52001bb3a086",
+            "text": "In order to see the score the profile needs to be set to public",
+            "createdAt": "2019-11-03T20:38:10.630Z"
+          }
+        ]
+      },
+      {
+        "status": "Submitted",
+        "_id": "5cc8c4536796cb329cef4707",
+        "userId": "5c5228386a3791001cd3a6fd",
+        "stepId": "5cb8a8eefbf8e118bb0e9e58",
+        "messages": [],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4709",
+            "url": "https://codepen.io/gefdiid/pen/aMXBNK",
+            "status": "Submitted",
+            "createdAt": "2019-03-23T23:01:52.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4708",
+            "url": "https://codepen.io/gefdiid/pen/wONENV",
+            "status": "Submitted",
+            "createdAt": "2019-03-25T10:55:08.000Z"
+          }
+        ],
+        "createdAt": "2019-04-30T21:55:31.316Z",
+        "updatedAt": "2019-11-03T20:27:54.866Z",
+        "number": 4.1,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Landing Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373579628.jpg",
+        "description": "This step challenges you to build a product landing page.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-product-landing-page</a></li><li>Implement everything you have learned in Steps 2 and 3.</li><li>This step will be assessed so make sure to complete it to the best of your abilities.</li><li>We recommend you to read the CYF webpage guideline document <a href=\"https://docs.google.com/presentation/d/1WlPrmTLsj8KWElBzV-QXjihmSknZe8HODX6SKc_JfIM/edit#slide=id.g6597527f42_0_9\" target=\"_blank\">HERE</a></li><li>Ensure the page includes the test script (as explained in the guideline)</li><li>Please do not copy the HTML/CSS code of the FCC sample page!</li><li>When your web page is complete, copy and paste the link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": [
+          {
+            "_id": "5dbf3b6d5c0596001b12e034",
+            "text": "The page includes the test script (as explained in the guideline)",
+            "createdAt": "2019-11-03T20:40:11.772Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e033",
+            "text": "The html/css code is not a copy of the FCC sample document",
+            "createdAt": "2019-11-03T20:40:19.029Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e032",
+            "text": "At least 1 link on the page that goes to an external site",
+            "createdAt": "2019-11-03T20:40:27.131Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e031",
+            "text": "The page includes CSS",
+            "createdAt": "2019-11-03T20:40:34.313Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e030",
+            "text": "The page includes a header",
+            "createdAt": "2019-11-03T20:40:41.705Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e02f",
+            "text": "The page includes a navigation bar",
+            "createdAt": "2019-11-03T20:40:50.323Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e02e",
+            "text": "The header includes an image",
+            "createdAt": "2019-11-03T20:40:57.538Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e02d",
+            "text": "The page includes a form",
+            "createdAt": "2019-11-03T20:41:06.152Z"
+          },
+          {
+            "_id": "5dbf3b6d5c0596001b12e02c",
+            "text": "The page includes a video",
+            "createdAt": "2019-11-03T20:41:14.321Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5c52eb1c6a3791001cd3a721",
+    "userId": "5c52ea7c6a3791001cd3a720",
+    "fullName": "Lizzie Barrada",
+    "email": "lizzie.barrada@example.com",
+    "city": "Rome",
+    "tel": "3334455666",
+    "experience": "None",
+    "hearAbout": "Porta futuro",
+    "gender": "Female",
+    "currentlyEmployed": "Unemployed",
+    "cityId": "5c55976d6a3791001cd3a774",
+    "isAsylumSeekerOrRefugee": false,
+    "phoneCalls": ["successful"],
+    "updatedAt": "2019-05-23T18:09:32.149Z",
+    "createdAt": "2019-01-31T12:33:32.000Z",
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef4756",
+        "userId": "5c52ea7c6a3791001cd3a720",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4759",
+            "url": "https://www.sololearn.com/Certificate/1023-12619957/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-25T12:19:29.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4758",
+            "url": "https://www.sololearn.com/Certificate/1024-12619957/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-25T12:20:20.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4757",
+            "url": "https://www.sololearn.com/Certificate/1014-12619957/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-25T12:20:40.000Z"
+          }
+        ],
+        "createdAt": "2019-04-30T21:55:31.441Z",
+        "updatedAt": "2019-11-03T20:27:54.866Z",
+        "number": 1,
+        "optional": false,
+        "name": "Sololearn",
+        "header": "HTML, CSS and JS",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373470617.jpg",
+        "description": "Please read and follow the instructions below in order to complete this step. You can do these steps on your smartphone without access to a laptop.",
+        "instructions": "<p>Note: this step is optional for applicants with access to computer/laptop. We recommend for all applicants to practice by completing the HTML and CSS tutorials</p><ul><li>Follow the link and download the Sololearn app. Link:&nbsp;<a href=\"https://sololearn.com/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://sololearn.com</a></li><li>Make sure you are logged in anytime you work on sololearn, otherwise your progress will be lost.</li><li>Complete HTML, CSS and JavaScript Fundamentals tutorials.</li><li>Once you have completed both tutorials fully, Sololearn will generate a certificate for you. Copy the Verification URL of each certificate into a relevant field below. A certificate link will look like this:<em> https://www.sololearn.com/Certificate/1234-12345678/pdf/.</em></li><li>If you do not have access to a laptop, submitting the three steps will make you eligible to a laptop loan, so that you can continue with the application process. Please send an email to your closest CYF branch</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
+  },
+  {
+    "_id": "5c5314bb6a3791001cd3a73a",
+    "userId": "5c5314786a3791001cd3a739",
+    "fullName": "Happy Cheshire",
+    "email": "happy.cheshire@example.com",
+    "city": "Rome",
+    "experience": "Basic",
+    "hearAbout": "Friends",
+    "gender": "Female",
+    "currentlyEmployed": "Unemployed",
+    "cityId": "5c55976d6a3791001cd3a774",
+    "isAsylumSeekerOrRefugee": true,
+    "phoneCalls": ["unsuccessful"],
+    "updatedAt": "2019-11-07T16:46:13.453Z",
+    "createdAt": "2019-01-31T15:31:07.000Z",
+    "steps": [],
+    "tel": "3334455666"
+  }
+]

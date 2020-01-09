@@ -9,43 +9,63 @@ export default class ColumnsContainer extends React.Component {
   };
 
   async componentDidMount() {
-    let stepsData, studentsData;
 
-    async function getData() {
+    // async function getData() {
+    const getData = async () => {
       try {
-        stepsData = await getSteps();
-        studentsData = await getStudents();
+/*         const stepsData = await getSteps();
+        const studentsData = await getStudents(); */
 
+        const [stepsData, studentsData] = await Promise.all([getSteps(), getStudents()]);
+// problem: unconsistent returned value
         console.log(stepsData);
         console.log(studentsData);
 
         return {
-          stepsData: stepsData,
-          studentsData: studentsData
+          stepsData,
+          studentsData
         };
       } catch (error) {
         console.log("Error happens");
+        // two options:
+        // 1. throw the error again
+        // 2. return empty object
+
+        return {};
       }
     }
 
-    (async () => {
+    const { stepsData, studentsData } = await getData();
+    this.setState({
+      stepsList: stepsData,
+      studentsList: studentsData
+    });
+
+
+/*     (async () => {
       this.setState({
         stepsList: await (await getData()).stepsData,
         studentsList: await (await getData()).studentsData
       });
-    })();
+    })(); */
   }
 
   render() {
     // Create a column for each step.
     const columns = this.state.stepsList.map(step => (
-      <Column
+    <li>{`step: ${step.number}`}</li>
+    ));
+
+    return <ul>{columns}</ul>;
+  }
+}
+
+
+
+/**
+ * <Column
         key={step.number}
         step={step}
         students={this.state.studentsList}
       />
-    ));
-
-    return <div>{columns}</div>;
-  }
-}
+ */

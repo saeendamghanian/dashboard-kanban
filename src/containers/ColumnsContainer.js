@@ -16,6 +16,7 @@ export default class ColumnsContainer extends React.Component {
           getStudents()
         ]);
 
+        // problem: unconsistent returned value
         console.log(stepsData);
         console.log(studentsData);
 
@@ -25,13 +26,15 @@ export default class ColumnsContainer extends React.Component {
         };
       } catch (error) {
         console.log("Error happens");
+        // two options:
+        // 1. throw the error again
+        // 2. return empty object
 
         return {};
       }
     };
 
     const { stepsData, studentsData } = await getData();
-
     this.setState({
       stepsList: stepsData,
       studentsList: studentsData

@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import IconContainer from "./components/IconContainer";
-import { Switch, Route } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Welcome from "./components/Welcome";
 import Error404 from "./components/Error404";
 import KanbanBoard from "./container components/KanbanBoard";
@@ -13,13 +13,18 @@ function App() {
   return (
     <div>
       <NavBar />
-      <Switch>
-        <Route path="/" component={Welcome} exact />
-        <Route path="/kanban" component={KanbanBoard} />
-        <Route path="/list" component={ListView} />
-        <Route path="/applicant/:id" component={ApplicantDetailPageContainer} />
-        <Route path="*" component={Error404} />
-      </Switch>
+      <BrowserRouter>
+        <Switch>
+          <Route path="/" component={Welcome} exact />
+          <Route path="/kanban" component={KanbanBoard} />
+          <Route path="/list" component={ListView} />
+          <Route
+            path="/applicant/:id"
+            component={ApplicantDetailPageContainer}
+          />
+          <Route path="*" component={Error404} />
+        </Switch>
+      </BrowserRouter>
     </div>
   );
 }

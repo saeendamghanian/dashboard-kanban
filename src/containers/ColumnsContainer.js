@@ -53,19 +53,13 @@ export default class ColumnsContainer extends React.Component {
   render() {
     // Create a column for each step.
     const columns = this.state.stepsList.map(step => (
-    <li>{`step: ${step.number}`}</li>
-    ));
-
-    return <ul>{columns}</ul>;
-  }
-}
-
-
-
-/**
- * <Column
+      <Column
         key={step.number}
         step={step}
         students={this.state.studentsList}
       />
- */
+    ));
+
+    return <div>{columns}</div>;
+  }
+}

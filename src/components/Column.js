@@ -1,38 +1,42 @@
 import React from "react";
-import Cards from "./Cards";
+import Card from "./Card";
 
-const Column = props => {
-  const currentStep = student => {
-    let currentStep = 0;
-    // Find the approved steps.
-    const approvedSteps = student.steps.filter(
-      step => step.status === "Approved"
-    );
+const currentStep = student => {
+  let currentStep = 0;
+  // Find the approved steps.
+  const approvedSteps = student.steps.filter(
+    step => step.status === "Approved"
+  );
 
-    console.log(approvedSteps);
+  console.log(approvedSteps);
 
-    // Find on which step student is.
-    if (approvedSteps.lentgh > 0) {
-      approvedSteps.forEach(step => {
-        if (step.number > currentStep) {
-          currentStep = step.number;
-        }
-      });
-    }
+  // Find on which step student is.
+  if (approvedSteps.length > 0) {
+    approvedSteps.forEach(step => {
+      if (step.number > currentStep) {
+        currentStep = step.number;
+      }
+    });
+  }
 
-    return currentStep;
-  };
+  return currentStep;
+};
+
+const Column = ({ step, students }) => {
 
   // Find the students which is allowed to be added to column.
-  const allowedStudents = props.students.filter(
-    student => currentStep(student) === props.step.number
+  const allowedStudents = students.filter(
+    student => currentStep(student) === step.number
   );
-  console.log(allowedStudents);
+  console.log('ColumnComp', {allowedStudents, step });
 
   return (
     <div>
-      <h3>{props.step.header}</h3>
-      <Cards key={allowedStudents._id} students={allowedStudents} />
+      <h3>{step.header}</h3>
+      {allowedStudents.map(student => (
+        <Card key={student._id} student={student} />
+      ))}
+      {/*  */}
     </div>
   );
 };

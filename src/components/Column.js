@@ -5,7 +5,11 @@ const Column = props => {
   const currentStep = student => {
     let currentStep = 0;
     // Find the approved steps.
-    const approvedSteps = student.steps.map(step => step.status === "Approved");
+    const approvedSteps = student.steps.filter(
+      step => step.status === "Approved"
+    );
+
+    console.log(approvedSteps);
 
     // Find on which step student is.
     if (approvedSteps.lentgh > 0) {
@@ -20,14 +24,15 @@ const Column = props => {
   };
 
   // Find the students which is allowed to be added to column.
-  const allowedStudents = this.state.students.filter(
+  const allowedStudents = props.students.filter(
     student => currentStep(student) === props.step.number
   );
+  console.log(allowedStudents);
 
   return (
     <div>
       <h3>{props.step.header}</h3>
-      <Cards students={allowedStudents} />
+      <Cards key={allowedStudents._id} students={allowedStudents} />
     </div>
   );
 };

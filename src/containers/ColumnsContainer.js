@@ -9,21 +9,34 @@ export default class ColumnsContainer extends React.Component {
   };
 
   async componentDidMount() {
-    // const stepsData = await getSteps();
-    // console.log(stepsData);
-    // const studentsData = await getStudents();
-    // console.log(studentsData);
+    let stepsData, studentsData;
 
-    this.setState({
-      stepsList: await getSteps(),
-      studentsList: await getStudents()
-    });
+    async function getData() {
+      try {
+        stepsData = await getSteps();
+        studentsData = await getStudents();
+
+        console.log(stepsData);
+        console.log(studentsData);
+
+        return {
+          stepsData: stepsData,
+          studentsData: studentsData
+        };
+      } catch (error) {
+        console.log("Error happens");
+      }
+    }
+
+    (async () => {
+      this.setState({
+        stepsList: await (await getData()).stepsData,
+        studentsList: await (await getData()).studentsData
+      });
+    })();
   }
 
   render() {
-    console.log(this.state.stepsList);
-    console.log(this.state.studentsList);
-
     // Create a column for each step.
     const columns = this.state.stepsList.map(step => (
       <Column

@@ -4,19 +4,21 @@ import Cards from "./Cards";
 const currentStep = student => {
   let currentStepNum = 0;
   // Find the approved steps.
+  const steps = student.steps.map(step => step.number).sort();
   const approvedSteps = student.steps.filter(
     step => step.status === "Approved"
   );
 
-  console.log("ApprovedSteps", approvedSteps);
-
   // Find out on which step student is.
-  if (approvedSteps.length > 0) {
-    approvedSteps.forEach(step => {
-      if (step.number > currentStepNum) {
-        currentStepNum = step.number;
-      }
-    });
+  // if (approvedSteps.length > 0) {
+  //   approvedSteps.forEach(step => {
+  //     if (step.number > currentStepNum) {
+  //       currentStepNum = step.number;
+  //     }
+  //   });
+  // }
+  if (steps.length !== 0) {
+    currentStepNum = steps[steps.length - 1];
   }
 
   return currentStepNum;
@@ -32,7 +34,7 @@ const Column = ({ students, step }) => {
   return (
     <div className="column">
       <h3>{step.header}</h3>
-      <Cards key={students._id} students={students} />
+      <Cards key={students._id} students={allowedStudents} />
     </div>
   );
 };

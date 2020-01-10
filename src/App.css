@@ -66,6 +66,8 @@ h3 {
 
   background-color: aliceblue;
   margin: 5px 0;
+  padding: 10px 0;
+  border: solid #50555e;
   border-radius: 5px;
 }
 

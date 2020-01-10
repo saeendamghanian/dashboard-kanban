@@ -10,8 +10,10 @@ const CallIcon = ({ student }) => {
     notYet: yellow[500]
   };
   let CallIconColor;
+  let phoneCallStatus =
+    student.phoneCalls === undefined ? "not yet" : student.phoneCalls[0];
 
-  switch (student.phoneCalls[0]) {
+  switch (phoneCallStatus) {
     case "successful":
       CallIconColor = colors.successful;
       break;

@@ -1,4 +1,4 @@
-import mock_students from "./mocks/students-1.json";
+import mock_students from "./mocks/students.json";
 import mock_steps from "./mocks/steps.json";
 
 // to simulate network connection lag, we need a timeout

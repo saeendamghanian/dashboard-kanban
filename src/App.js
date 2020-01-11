@@ -11,8 +11,8 @@ import ListView from "./containers/ListView";
 function App() {
   return (
     <div>
-      <NavBar />
       <BrowserRouter>
+        <NavBar />
         <Switch>
           <Route path="/" component={Welcome} exact />
           <Route path="/kanban" component={KanbanBoard} />

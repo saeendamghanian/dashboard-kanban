@@ -1,13 +1,12 @@
 import React from "react";
 import "./App.css";
-import IconContainer from "./components/IconContainer";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Welcome from "./components/Welcome";
 import Error404 from "./components/Error404";
-import KanbanBoard from "./container components/KanbanBoard";
+import KanbanBoard from "./containers/KanbanBoard";
 import NavBar from "./components/Navbar";
-import ApplicantDetailPageContainer from "./container components/ApplicantDetailPageContainer.js";
-import ListView from "./container components/ListView";
+import ApplicantDetailPageContainer from "./containers/ApplicantDetailPageContainer.js";
+import ListView from "./containers/ListView";
 
 function App() {
   return (

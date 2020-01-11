@@ -1,17 +1,22 @@
 import React from "react";
 import "./App.css";
-import { Switch, Route } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Welcome from "./components/Welcome";
 import Error404 from "./components/Error404";
-import ApplicantDetailPageContainer from "./containers/ApplicantDetailPageContainer";
-import { BrowserRouter } from "react-router-dom";
+import KanbanBoard from "./containers/KanbanBoard";
+import NavBar from "./components/Navbar";
+import ApplicantDetailPageContainer from "./containers/ApplicantDetailPageContainer.js";
+import ListView from "./containers/ListView";
 
 function App() {
   return (
     <div>
       <BrowserRouter>
+        <NavBar />
         <Switch>
           <Route path="/" component={Welcome} exact />
+          <Route path="/kanban" component={KanbanBoard} />
+          <Route path="/list" component={ListView} />
           <Route
             path="/applicant/:id"
             component={ApplicantDetailPageContainer}

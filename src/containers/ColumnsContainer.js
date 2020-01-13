@@ -41,15 +41,38 @@ export default class ColumnsContainer extends React.Component {
     });
   }
 
+  currentStep = student => {
+    let currentStepNum = 0;
+    // Find the approved steps.
+    const approvedSteps = student.steps.filter(
+      step => step.status === "Approved"
+    );
+    // Make an array of approved steps.
+    const steps = approvedSteps.map(step => step.number).sort();
+    // Select the right step.
+    if (steps.length !== 0) {
+      currentStepNum = steps[steps.length - 1];
+    }
+
+    return currentStepNum;
+  };
+
   render() {
     // Create a column for each step.
-    const columns = this.state.stepsList.map(step => (
-      <Column
-        key={step.number}
-        step={step}
-        students={this.state.studentsList}
-      />
-    ));
+    const columns = this.state.stepsList.map(step => {
+      // Find the students which is allowed to be added to column.
+      const allowedStudents = this.state.studentsList.filter(
+        student => this.currentStep(student) === step.number
+      );
+
+      return (
+        <Column
+          key={step.number}
+          step={step}
+          allowedStudents={allowedStudents}
+        />
+      );
+    });
 
     return <div className="column-container">{columns}</div>;
   }

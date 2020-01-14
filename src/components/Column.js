@@ -7,9 +7,9 @@ const Column = ({ allowedStudents, step }) => {
     .reverse();
 
   return (
-    <div className="column">
+    <div>
       <h3>{`${step.header} (${allowedStudents.length})`}</h3>
-      {card}
+      <div className="column">{card}</div>
     </div>
   );
 };

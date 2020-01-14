@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-const ApplicantLabel = props => {
-  const { applicantId, applicantName } = props.applicantInfo;
-  const linkLocation = `/applicant/${applicantId}`;
+const ApplicantLabel = ({ student }) => {
+  const { userId, fullName } = student;
+  const linkLocation = `/applicant/${fullName}`;
 
   return (
     <div>
-      <Link to={linkLocation}>{applicantName}</Link>
+      <Link to={linkLocation}>{fullName}</Link>
     </div>
   );
 };

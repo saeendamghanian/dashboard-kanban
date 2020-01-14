@@ -9128,7 +9128,7 @@
     "experience": "Basic",
     "hearAbout": "social midia",
     "currentlyEmployed": "Unemployed",
-    "phoneCallStatus": [],
+    "phoneCalls": ["successful"],
     "createdAt": "2019-07-01T13:10:25.956Z",
     "updatedAt": "2019-07-11T14:53:17.164Z",
     "steps": []
@@ -9147,7 +9147,7 @@
     "currentlyEmployed": "Unemployed",
     "gender": "Male",
     "email": "fredericka.mercier@example.com",
-    "phoneCalls": [],
+    "phoneCalls": ["unsuccessful"],
     "createdAt": "2019-08-09T08:58:40.714Z",
     "updatedAt": "2019-08-09T08:58:40.714Z",
     "steps": []
@@ -9166,7 +9166,7 @@
     "currentlyEmployed": "Full-time",
     "gender": "Female",
     "email": "floria.fitz@example.com",
-    "phoneCalls": [],
+    "phoneCalls": ["successful"],
     "createdAt": "2019-09-02T19:01:32.100Z",
     "updatedAt": "2019-09-27T15:54:58.825Z",
     "steps": []
@@ -9185,7 +9185,7 @@
     "currentlyEmployed": "Unemployed",
     "gender": "Female",
     "email": "catherin.byrdie@example.com",
-    "phoneCalls": [],
+    "phoneCalls": ["successful"],
     "createdAt": "2019-09-25T08:43:14.722Z",
     "updatedAt": "2019-09-25T08:43:14.722Z",
     "steps": []
@@ -9204,7 +9204,7 @@
     "currentlyEmployed": "Unemployed",
     "gender": "Female",
     "email": "leigh.kaitlynn@example.com",
-    "phoneCalls": [],
+    "phoneCalls": ["not yet"],
     "createdAt": "2019-10-08T06:51:21.213Z",
     "updatedAt": "2019-10-08T06:51:21.213Z",
     "steps": []
@@ -9223,7 +9223,7 @@
     "currentlyEmployed": "Unemployed",
     "gender": "Male",
     "email": "arlene.rich@example.com",
-    "phoneCalls": [],
+    "phoneCalls": ["unsuccessful"],
     "createdAt": "2019-10-08T19:37:26.672Z",
     "updatedAt": "2019-10-08T19:37:26.672Z",
     "steps": []
@@ -9242,7 +9242,7 @@
     "currentlyEmployed": "Unemployed",
     "gender": "Male",
     "email": "nelli.dalpe@example.com",
-    "phoneCalls": [],
+    "phoneCalls": ["successful"],
     "createdAt": "2019-11-07T16:01:10.032Z",
     "updatedAt": "2019-11-07T16:01:10.032Z",
     "steps": []
@@ -9261,7 +9261,7 @@
     "currentlyEmployed": "Unemployed",
     "gender": "Male",
     "email": "catina.tito@example.com",
-    "phoneCalls": [],
+    "phoneCalls": ["unsuccessful"],
     "createdAt": "2019-11-14T09:22:54.493Z",
     "updatedAt": "2019-11-14T09:22:54.493Z",
     "steps": []
@@ -9280,7 +9280,7 @@
     "currentlyEmployed": "Unemployed",
     "gender": "Other",
     "email": "costanza.sholley@example.com",
-    "phoneCalls": [],
+    "phoneCalls": ["successful"],
     "createdAt": "2019-11-22T13:33:58.780Z",
     "updatedAt": "2019-12-06T14:36:33.733Z",
     "applicationAccepted": true,
@@ -9301,7 +9301,7 @@
     "currentlyEmployed": "Full-time",
     "gender": "PreferNotToSay",
     "email": "dominga.rowan@example.com",
-    "phoneCalls": [],
+    "phoneCalls": ["not yet"],
     "createdAt": "2019-11-28T17:03:19.237Z",
     "updatedAt": "2019-11-28T17:03:19.237Z",
     "steps": []
@@ -9321,7 +9321,7 @@
     "currentlyEmployed": "Unemployed",
     "gender": "Male",
     "email": "sofia.cardon@example.com",
-    "phoneCalls": [],
+    "phoneCalls": ["successful"],
     "createdAt": "2019-12-09T02:17:53.941Z",
     "updatedAt": "2019-12-09T02:17:53.941Z",
     "steps": [

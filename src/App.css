@@ -61,7 +61,7 @@ h1 {
 }
 
 .column {
-  height: vh;
+  height: 50vh;
   background-color: #cecece;
   border-radius: 5px;
   overflow-y: auto;

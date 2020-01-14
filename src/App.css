@@ -23,6 +23,12 @@ h3 {
   border: groove;
 }
 
+h3:hover {
+  background-color: #239dd8;
+  border-radius: 5px;
+  border: groove;
+}
+
 h1 {
   height: 10px;
 }

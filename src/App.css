@@ -40,3 +40,30 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  background-color: #239dd8;
+  height: 50px;
+  font-size: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0px;
+  list-style-type: none;
+}
+
+.navbar-item a {
+  margin: 8px;
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-item a:hover {
+  color: #5a5a5a;
+}
+
+.navbar li + li:before {
+  padding: 3px;
+  content: "/\00a0";
+}

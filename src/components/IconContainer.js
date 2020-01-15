@@ -8,7 +8,7 @@ const IconContainer = props => {
     <div>
       <CallIcon {...props} />
       <FaceIcon {...props} />
-      <ElapsedDate />
+      <ElapsedDate {...props} />
     </div>
   );
 };

@@ -80,26 +80,29 @@ h3 {
 }
 
 .navbar {
-  background-color: #239dd8;
-  height: 50px;
+  background-color: #f5f5f500;
+  height: 70px;
+  margin: 0px;
+  padding: 0px 0px 0px 10px;
   font-size: 16px;
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
-  margin: 0px;
   list-style-type: none;
 }
 
 .navbar-item a {
   padding: 6px;
   margin: 8px;
-  color: white;
+  color: black;
   text-decoration: none;
+  border: 1px solid;
+  border-radius: 5px;
 }
 
 .navbar-item a:hover {
-  background-color: #f5f5f5;
-  color: black;
+  background-color: #239dd8;
+  color: white;
   border-radius: 5px;
 }

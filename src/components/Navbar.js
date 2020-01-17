@@ -6,14 +6,14 @@ class NavBar extends Component {
     const Separator = () => <span> &middot; </span>;
     return (
       <div>
-        <ul>
-          <li>
+        <ul className="navbar">
+          <li className="navbar-item">
             <Link to="/">Home</Link>
           </li>
-          <li>
+          <li className="navbar-item">
             <Link to="/kanban">Kanban View</Link>
           </li>
-          <li>
+          <li className="navbar-item">
             <Link to="/list">List View</Link>
           </li>
         </ul>

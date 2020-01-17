@@ -2,10 +2,6 @@
   text-align: center;
 }
 
-#root {
-  background-color: #6d6d6c;
-}
-
 .hidden {
   visibility: hidden;
 }

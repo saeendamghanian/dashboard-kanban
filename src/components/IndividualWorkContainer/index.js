@@ -7,7 +7,7 @@ export default class IndividualWorkContainer extends React.Component {
     return (
       <div>
         <ProgressBar />
-        <BasicApplicantDetails />
+        <BasicApplicantDetails firstName={"Saeen"} />
       </div>
     );
   }

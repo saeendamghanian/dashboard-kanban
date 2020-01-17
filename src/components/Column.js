@@ -8,8 +8,8 @@ const Column = ({ allowedStudents, step }) => {
 
   return (
     <div className="column">
-      <h3>{`${step.header} (${allowedStudents.length})`}</h3>
-      {card}
+      <h4>{`${step.header} (${allowedStudents.length})`}</h4>
+      <div>{card}</div>
     </div>
   );
 };

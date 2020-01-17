@@ -6,7 +6,7 @@ const ApplicantLabel = ({ student }) => {
   const linkLocation = `/applicant/${fullName}`;
 
   return (
-    <div>
+    <div className="applicant-name">
       <Link to={linkLocation}>{fullName}</Link>
     </div>
   );

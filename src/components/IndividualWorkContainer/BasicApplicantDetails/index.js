@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React from "react";
 import FirstName from "./firstName";
 import LastName from "./lastName";
 import Gender from "./gender";

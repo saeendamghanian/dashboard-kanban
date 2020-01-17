@@ -4,10 +4,22 @@ import BasicApplicantDetails from "./BasicApplicantDetails";
 
 export default class IndividualWorkContainer extends React.Component {
   render() {
+    const steps = [
+      "step1",
+      "step2",
+      "step3",
+      "step4",
+      "step5",
+      "step6",
+      "step7",
+      "step8"
+    ];
+    const currentStep = 4;
+
     return (
       <div>
-        <ProgressBar />
-        <BasicApplicantDetails firstName={"Saeen"} />
+        <ProgressBar steps={steps} currentStep={currentStep} />
+        <BasicApplicantDetails />
       </div>
     );
   }

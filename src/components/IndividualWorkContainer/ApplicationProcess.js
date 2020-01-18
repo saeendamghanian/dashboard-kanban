@@ -1,21 +1,50 @@
 import React from "react";
 import { AppBar, Tabs, Tab } from "@material-ui/core";
+import { blue, cyan, red } from "@material-ui/core/colors";
 
-export default ApplicationProcess = () => {
-  const [value, setValue] = React.useState("one");
+const TabContent = args => {
+  const { step } = args;
+
+  return <p>{step.description}</p>;
+};
+
+const ApplicationProcess = ({ steps }) => {
+  const [value, setValue] = React.useState(0);
+
+  const handleChange = (event, newValue) => {
+    setValue(newValue);
+  };
+
+  const tabs = steps.map(step => (
+    <Tab key={step.number} label={step.header} wrapped></Tab>
+  ));
+
+  const tabContents = steps.map((step, index) => {
+    return (
+      value === index && (
+        <TabContent key={step.number} value={value} index={index} step={step} />
+      )
+    );
+  });
 
   return (
-    <AppBar position="static">
-      <Tabs value={value}>
-        <Tab value="step1" label="New Applicant" wrapped></Tab>
-        <Tab value="step2" label="New Applicant" wrapped></Tab>
-        <Tab value="step3" label="New Applicant" wrapped></Tab>
-        <Tab value="step4" label="New Applicant" wrapped></Tab>
-        <Tab value="step5" label="New Applicant" wrapped></Tab>
-        <Tab value="step6" label="New Applicant" wrapped></Tab>
-        <Tab value="step7" label="New Applicant" wrapped></Tab>
-        <Tab value="step8" label="New Applicant" wrapped></Tab>
-      </Tabs>
-    </AppBar>
+    <div className="tab-container">
+      <AppBar position="static" color="default">
+        <Tabs
+          value={value}
+          onChange={handleChange}
+          color="secondary"
+          indicatorColor="secondary"
+          textColor="secondary"
+          variant="scrollable"
+          scrollButtons="auto"
+        >
+          {tabs}
+        </Tabs>
+      </AppBar>
+      {tabContents}
+    </div>
   );
 };
+
+export default ApplicationProcess;

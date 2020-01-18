@@ -5,9 +5,9 @@ const ProgressBar = ({ steps, currentStep }) => {
   return (
     <div>
       <Stepper activeStep={currentStep} alternativeLabel>
-        {steps.map(label => (
-          <Step key={label}>
-            <StepLabel>{label}</StepLabel>
+        {steps.map(step => (
+          <Step key={step}>
+            <StepLabel>{step.header}</StepLabel>
           </Step>
         ))}
       </Stepper>

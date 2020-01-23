@@ -1,0 +1,61 @@
+.application-submit-btn {
+  width: 50%;
+  margin-left: 50%;
+  min-height: 50px;
+}
+.application-form-section-one-items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  width: 80%;
+  /* border-radius: .25rem; */
+  /* transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out; */
+}
+.form-control {
+  height: 30px;
+  background: #ffffff;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+}
+.outline-container {
+  background: #ffffff;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  display: block;
+  color: #495057;
+  border: 1px solid #ced4da !important;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.date--input {
+  width: 50px !important;
+}
+.react-phone-number-input__icon {
+  width: 2em !important;
+  height: 1.5em !important;
+  border: none !important;
+  box-sizing: content-box;
+}
+
+.form-container {
+  margin: 3% 20%;
+  padding-top: 20px;
+  border: 1px solid;
+}
+
+.lead {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.date-of-birth-input > div {
+  display: inline-block;
+}

@@ -6,11 +6,14 @@ html {
   text-align: center;
 }
 
+<<<<<<< HEAD
 #root {
   background-color: #f5f5f5;
   height: 100%;
 }
 
+=======
+>>>>>>> 9b4ddbd6196d913da2ba288962e30fa1c753dfb9
 .hidden {
   visibility: hidden;
 }

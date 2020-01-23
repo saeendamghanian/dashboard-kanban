@@ -14,7 +14,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.149Z",
     "createdAt": "2019-01-30T17:21:20.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 4.1,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Landing Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373579628.jpg",
+        "description": "This step challenges you to build a product landing page.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-product-landing-page</a></li><li>Implement everything you have learned in Steps 2 and 3.</li><li>This step will be assessed so make sure to complete it to the best of your abilities.</li><li>We recommend you to read the CYF webpage guideline document <a href=\"https://docs.google.com/presentation/d/1WlPrmTLsj8KWElBzV-QXjihmSknZe8HODX6SKc_JfIM/edit#slide=id.g6597527f42_0_9\" target=\"_blank\">HERE</a></li><li>Ensure the page includes the test script (as explained in the guideline)</li><li>Please do not copy the HTML/CSS code of the FCC sample page!</li><li>When your web page is complete, copy and paste the link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c51face6a3791001cd3a6f6",
@@ -510,7 +564,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-11-07T16:46:13.453Z",
     "createdAt": "2019-01-31T15:31:07.000Z",
-    "steps": [],
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 4.1,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Landing Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373579628.jpg",
+        "description": "This step challenges you to build a product landing page.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-product-landing-page</a></li><li>Implement everything you have learned in Steps 2 and 3.</li><li>This step will be assessed so make sure to complete it to the best of your abilities.</li><li>We recommend you to read the CYF webpage guideline document <a href=\"https://docs.google.com/presentation/d/1WlPrmTLsj8KWElBzV-QXjihmSknZe8HODX6SKc_JfIM/edit#slide=id.g6597527f42_0_9\" target=\"_blank\">HERE</a></li><li>Ensure the page includes the test script (as explained in the guideline)</li><li>Please do not copy the HTML/CSS code of the FCC sample page!</li><li>When your web page is complete, copy and paste the link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ],
     "tel": "3334455666"
   },
   {
@@ -581,7 +689,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.149Z",
     "createdAt": "2019-02-01T10:30:08.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 4.1,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Landing Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373579628.jpg",
+        "description": "This step challenges you to build a product landing page.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-product-landing-page</a></li><li>Implement everything you have learned in Steps 2 and 3.</li><li>This step will be assessed so make sure to complete it to the best of your abilities.</li><li>We recommend you to read the CYF webpage guideline document <a href=\"https://docs.google.com/presentation/d/1WlPrmTLsj8KWElBzV-QXjihmSknZe8HODX6SKc_JfIM/edit#slide=id.g6597527f42_0_9\" target=\"_blank\">HERE</a></li><li>Ensure the page includes the test script (as explained in the guideline)</li><li>Please do not copy the HTML/CSS code of the FCC sample page!</li><li>When your web page is complete, copy and paste the link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5441946a3791001cd3a74c",
@@ -657,7 +819,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.149Z",
     "createdAt": "2019-02-01T15:03:20.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 4.1,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Landing Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373579628.jpg",
+        "description": "This step challenges you to build a product landing page.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-product-landing-page</a></li><li>Implement everything you have learned in Steps 2 and 3.</li><li>This step will be assessed so make sure to complete it to the best of your abilities.</li><li>We recommend you to read the CYF webpage guideline document <a href=\"https://docs.google.com/presentation/d/1WlPrmTLsj8KWElBzV-QXjihmSknZe8HODX6SKc_JfIM/edit#slide=id.g6597527f42_0_9\" target=\"_blank\">HERE</a></li><li>Ensure the page includes the test script (as explained in the guideline)</li><li>Please do not copy the HTML/CSS code of the FCC sample page!</li><li>When your web page is complete, copy and paste the link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5464ba6a3791001cd3a75d",
@@ -849,7 +1065,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.149Z",
     "createdAt": "2019-02-01T15:37:22.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-21T15:55:22.182Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 5,
+        "optional": false,
+        "name": "English ",
+        "header": "Motivational letter",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1573573872688.jpg",
+        "description": "Write a 300 word motivation letter that answers these questions:",
+        "instructions": "<ul><li>Why you want to join CodeYourFuture?</li><li>Why you would like to become a professional developer?</li><li>How much effort are you willing to put in during the course?</li><li>Why do you consider your background makes you eligible to our program?</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": true,
+        "showSubmitUrl": false,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5468226a3791001cd3a76d",
@@ -1034,7 +1304,62 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.149Z",
     "createdAt": "2019-02-05T08:33:18.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 7,
+        "optional": true,
+        "name": "Programming",
+        "header": "Introduction to Programming",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373621330.jpg",
+        "description": "Understanding programming can be hard. In just a few hours, resources below will help you learn more about programming as you begin this exciting journey!",
+        "instructions": "<ul><li>Read this tutorial on programming: Link&nbsp;<a href=\"https://edu.gcfglobal.org/en/computer-science/programming-languages/1/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://edu.gcfglobal.org</a></li><li>Complete Hour of Code challenge by following this link: Link&nbsp;<a href=\"https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://www.khanacademy.org</a></li><li>Once you completed the challenge, share your project with us by clicking on ‘Share’ button on CodeAcademy.</li><li>From the window that pops up, copy the link and submit it in the field below.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "classPreparation": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5a29d16a3791001cd3a7ad",
@@ -1097,7 +1422,62 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.149Z",
     "createdAt": "2019-02-06T18:22:10.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 7,
+        "optional": true,
+        "name": "Programming",
+        "header": "Introduction to Programming",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373621330.jpg",
+        "description": "Understanding programming can be hard. In just a few hours, resources below will help you learn more about programming as you begin this exciting journey!",
+        "instructions": "<ul><li>Read this tutorial on programming: Link&nbsp;<a href=\"https://edu.gcfglobal.org/en/computer-science/programming-languages/1/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://edu.gcfglobal.org</a></li><li>Complete Hour of Code challenge by following this link: Link&nbsp;<a href=\"https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://www.khanacademy.org</a></li><li>Once you completed the challenge, share your project with us by clicking on ‘Share’ button on CodeAcademy.</li><li>From the window that pops up, copy the link and submit it in the field below.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "classPreparation": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5c09426a3791001cd3a7c9",
@@ -1160,7 +1540,62 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.149Z",
     "createdAt": "2019-02-07T21:22:23.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 7,
+        "optional": true,
+        "name": "Programming",
+        "header": "Introduction to Programming",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373621330.jpg",
+        "description": "Understanding programming can be hard. In just a few hours, resources below will help you learn more about programming as you begin this exciting journey!",
+        "instructions": "<ul><li>Read this tutorial on programming: Link&nbsp;<a href=\"https://edu.gcfglobal.org/en/computer-science/programming-languages/1/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://edu.gcfglobal.org</a></li><li>Complete Hour of Code challenge by following this link: Link&nbsp;<a href=\"https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://www.khanacademy.org</a></li><li>Once you completed the challenge, share your project with us by clicking on ‘Share’ button on CodeAcademy.</li><li>From the window that pops up, copy the link and submit it in the field below.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "classPreparation": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5d56eb6a3791001cd3a7e6",
@@ -1401,7 +1836,62 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.149Z",
     "createdAt": "2019-02-08T10:17:08.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 7,
+        "optional": true,
+        "name": "Programming",
+        "header": "Introduction to Programming",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373621330.jpg",
+        "description": "Understanding programming can be hard. In just a few hours, resources below will help you learn more about programming as you begin this exciting journey!",
+        "instructions": "<ul><li>Read this tutorial on programming: Link&nbsp;<a href=\"https://edu.gcfglobal.org/en/computer-science/programming-languages/1/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://edu.gcfglobal.org</a></li><li>Complete Hour of Code challenge by following this link: Link&nbsp;<a href=\"https://www.khanacademy.org/computing/hour-of-code/hour-of-html/v/making-webpages-intro\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://www.khanacademy.org</a></li><li>Once you completed the challenge, share your project with us by clicking on ‘Share’ button on CodeAcademy.</li><li>From the window that pops up, copy the link and submit it in the field below.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "classPreparation": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5d57ac6a3791001cd3a7fd",
@@ -1418,7 +1908,62 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.149Z",
     "createdAt": "2019-02-08T10:19:24.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 8,
+        "optional": true,
+        "name": "Internet ",
+        "header": "Introduction to Internet and Search Engines",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373671121.jpg",
+        "description": "Internet can be scary but resources below will help you to use it in a safe and effective manner.",
+        "instructions": "<ul><li>Complete all 11 sections of this tutorial: Link&nbsp;<a href=\"https://edu.gcfglobal.org/en/internetbasics/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://edu.gcfglobal.org/internetbasics</a></li><li>Upon completion, take this quiz: Link&nbsp;<a href=\"https://gcflearnfree-assessments.azurewebsites.net/viewer/index.html#!/deab57c4-6589-42e4-86ab-ce2acbba9190\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://gcflearnfree-assessments.azurewebsites.net</a></li><li>Once complete, take a screenshot of the quiz results and save it on your device.</li><li>Upload the screenshot below.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "classPreparation": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5d57db6a3791001cd3a802",
@@ -1435,7 +1980,62 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.149Z",
     "createdAt": "2019-02-08T10:20:11.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 8,
+        "optional": true,
+        "name": "Internet ",
+        "header": "Introduction to Internet and Search Engines",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373671121.jpg",
+        "description": "Internet can be scary but resources below will help you to use it in a safe and effective manner.",
+        "instructions": "<ul><li>Complete all 11 sections of this tutorial: Link&nbsp;<a href=\"https://edu.gcfglobal.org/en/internetbasics/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://edu.gcfglobal.org/internetbasics</a></li><li>Upon completion, take this quiz: Link&nbsp;<a href=\"https://gcflearnfree-assessments.azurewebsites.net/viewer/index.html#!/deab57c4-6589-42e4-86ab-ce2acbba9190\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://gcflearnfree-assessments.azurewebsites.net</a></li><li>Once complete, take a screenshot of the quiz results and save it on your device.</li><li>Upload the screenshot below.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "classPreparation": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5d57f66a3791001cd3a807",
@@ -1671,7 +2271,62 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-08T10:32:11.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 8,
+        "optional": true,
+        "name": "Internet ",
+        "header": "Introduction to Internet and Search Engines",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373671121.jpg",
+        "description": "Internet can be scary but resources below will help you to use it in a safe and effective manner.",
+        "instructions": "<ul><li>Complete all 11 sections of this tutorial: Link&nbsp;<a href=\"https://edu.gcfglobal.org/en/internetbasics/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://edu.gcfglobal.org/internetbasics</a></li><li>Upon completion, take this quiz: Link&nbsp;<a href=\"https://gcflearnfree-assessments.azurewebsites.net/viewer/index.html#!/deab57c4-6589-42e4-86ab-ce2acbba9190\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://gcflearnfree-assessments.azurewebsites.net</a></li><li>Once complete, take a screenshot of the quiz results and save it on your device.</li><li>Upload the screenshot below.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "classPreparation": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5d60ef6a3791001cd3a816",
@@ -1688,7 +2343,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-08T10:58:55.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-21T15:55:22.182Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 5,
+        "optional": false,
+        "name": "English ",
+        "header": "Motivational letter",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1573573872688.jpg",
+        "description": "Write a 300 word motivation letter that answers these questions:",
+        "instructions": "<ul><li>Why you want to join CodeYourFuture?</li><li>Why you would like to become a professional developer?</li><li>How much effort are you willing to put in during the course?</li><li>Why do you consider your background makes you eligible to our program?</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": true,
+        "showSubmitUrl": false,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5d7e6b6a3791001cd3a821",
@@ -1910,7 +2619,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-08T20:52:10.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-21T15:55:22.182Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 5,
+        "optional": false,
+        "name": "English ",
+        "header": "Motivational letter",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1573573872688.jpg",
+        "description": "Write a 300 word motivation letter that answers these questions:",
+        "instructions": "<ul><li>Why you want to join CodeYourFuture?</li><li>Why you would like to become a professional developer?</li><li>How much effort are you willing to put in during the course?</li><li>Why do you consider your background makes you eligible to our program?</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": true,
+        "showSubmitUrl": false,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5dece36a3791001cd3a83e",
@@ -2039,7 +2802,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-08T21:34:43.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-21T15:55:22.182Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 5,
+        "optional": false,
+        "name": "English ",
+        "header": "Motivational letter",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1573573872688.jpg",
+        "description": "Write a 300 word motivation letter that answers these questions:",
+        "instructions": "<ul><li>Why you want to join CodeYourFuture?</li><li>Why you would like to become a professional developer?</li><li>How much effort are you willing to put in during the course?</li><li>Why do you consider your background makes you eligible to our program?</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": true,
+        "showSubmitUrl": false,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c5ed4406a3791001cd3a84a",
@@ -2403,7 +3220,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-10T13:45:54.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-21T15:55:22.182Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 5,
+        "optional": false,
+        "name": "English ",
+        "header": "Motivational letter",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1573573872688.jpg",
+        "description": "Write a 300 word motivation letter that answers these questions:",
+        "instructions": "<ul><li>Why you want to join CodeYourFuture?</li><li>Why you would like to become a professional developer?</li><li>How much effort are you willing to put in during the course?</li><li>Why do you consider your background makes you eligible to our program?</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": true,
+        "showSubmitUrl": false,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c6083f26a3791001cd3a876",
@@ -2756,7 +3627,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-11T21:05:37.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-21T15:55:22.182Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 5,
+        "optional": false,
+        "name": "English ",
+        "header": "Motivational letter",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1573573872688.jpg",
+        "description": "Write a 300 word motivation letter that answers these questions:",
+        "instructions": "<ul><li>Why you want to join CodeYourFuture?</li><li>Why you would like to become a professional developer?</li><li>How much effort are you willing to put in during the course?</li><li>Why do you consider your background makes you eligible to our program?</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": true,
+        "showSubmitUrl": false,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c62021a6a3791001cd3a8a1",
@@ -2773,7 +3698,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-11T23:15:38.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-21T15:55:22.182Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 5,
+        "optional": false,
+        "name": "English ",
+        "header": "Motivational letter",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1573573872688.jpg",
+        "description": "Write a 300 word motivation letter that answers these questions:",
+        "instructions": "<ul><li>Why you want to join CodeYourFuture?</li><li>Why you would like to become a professional developer?</li><li>How much effort are you willing to put in during the course?</li><li>Why do you consider your background makes you eligible to our program?</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": true,
+        "showSubmitUrl": false,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c62a9de6a3791001cd3a8b1",
@@ -2873,7 +3852,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-12T11:41:05.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-21T15:55:22.182Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 5,
+        "optional": false,
+        "name": "English ",
+        "header": "Motivational letter",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1573573872688.jpg",
+        "description": "Write a 300 word motivation letter that answers these questions:",
+        "instructions": "<ul><li>Why you want to join CodeYourFuture?</li><li>Why you would like to become a professional developer?</li><li>How much effort are you willing to put in during the course?</li><li>Why do you consider your background makes you eligible to our program?</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": true,
+        "showSubmitUrl": false,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c62f9e46a3791001cd3a8c9",
@@ -2890,7 +3923,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-12T16:52:52.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-21T15:55:22.182Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 5,
+        "optional": false,
+        "name": "English ",
+        "header": "Motivational letter",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1573573872688.jpg",
+        "description": "Write a 300 word motivation letter that answers these questions:",
+        "instructions": "<ul><li>Why you want to join CodeYourFuture?</li><li>Why you would like to become a professional developer?</li><li>How much effort are you willing to put in during the course?</li><li>Why do you consider your background makes you eligible to our program?</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": true,
+        "showSubmitUrl": false,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c63e5d16a3791001cd3a8de",
@@ -2953,7 +4040,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-13T11:52:00.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c6406946a3791001cd3a901",
@@ -2970,7 +4111,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-13T11:59:16.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c6adc4f4b6bc9001c974a05",
@@ -2987,7 +4182,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-18T16:24:47.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c6c2af94b6bc9001c974a1f",
@@ -3174,7 +4423,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-19T17:09:40.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c6c5dbc21b123001b686578",
@@ -3191,7 +4494,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-19T19:49:16.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c6c8c2921b123001b68657e",
@@ -3208,7 +4565,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-19T23:07:21.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c6ea14621b123001b686598",
@@ -3225,7 +4636,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-21T13:01:58.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c6ea16121b123001b68659d",
@@ -3467,7 +4932,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-21T17:43:07.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c6f03024b6bc9001c974a43",
@@ -3484,7 +5003,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-21T19:58:58.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c7003414b6bc9001c974a49",
@@ -3640,7 +5213,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-24T15:41:30.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c73eb5321b123001b6865be",
@@ -3657,7 +5284,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.150Z",
     "createdAt": "2019-02-25T13:19:15.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c7463504b6bc9001c974a66",
@@ -3674,7 +5355,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-02-25T21:51:12.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c75181521b123001b6865d2",
@@ -3691,7 +5426,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-02-26T10:42:29.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c76775e21b123001b6865dd",
@@ -3708,7 +5497,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-02-27T11:41:18.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c767edb21b123001b6865e2",
@@ -3950,7 +5793,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-02-27T18:37:57.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c7793464b6bc9001c974a93",
@@ -3967,7 +5864,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-02-28T07:52:38.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c787b0721b123001b68660a",
@@ -3984,7 +5935,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-03-01T00:21:27.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c7b826e4b6bc9001c974ac5",
@@ -4001,7 +6006,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-03-03T07:29:50.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c7d0c8621b123001b68663b",
@@ -4018,7 +6077,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-03-04T11:31:18.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c7d5abe4b6bc9001c974aef",
@@ -4087,7 +6200,61 @@
     "isAsylumSeekerOrRefugee": true,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-03-05T13:52:22.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c8155324b6bc9001c974b30",
@@ -4329,7 +6496,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-03-07T20:02:11.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c81b6094b6bc9001c974b49",
@@ -4346,7 +6567,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-03-08T00:23:37.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c821b464b6bc9001c974b54",
@@ -4639,7 +6914,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-03-08T14:38:26.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c82982e4b6bc9001c974b8f",
@@ -4656,7 +6985,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-03-08T16:28:30.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c82c1984b6bc9001c974ba2",
@@ -4673,7 +7056,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.151Z",
     "createdAt": "2019-03-08T19:25:12.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c82f1704b6bc9001c974baf",
@@ -4690,7 +7127,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.152Z",
     "createdAt": "2019-03-08T22:49:20.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c82f3e54b6bc9001c974bb5",
@@ -4707,7 +7198,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.152Z",
     "createdAt": "2019-03-08T22:59:49.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c835ba64b6bc9001c974bbb",
@@ -4724,7 +7269,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.152Z",
     "createdAt": "2019-03-09T06:22:30.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c8402984b6bc9001c974c13",
@@ -4741,7 +7340,61 @@
     "isAsylumSeekerOrRefugee": false,
     "updatedAt": "2019-05-23T18:09:32.152Z",
     "createdAt": "2019-03-09T18:14:48.000Z",
-    "steps": []
+    "steps": [
+      {
+        "status": "Approved",
+        "_id": "5cc8c4536796cb329cef474d",
+        "userId": "5c51f9ac6a3791001cd3a6f5",
+        "stepId": "5cb8a846fbf8e118bb0e9e55",
+        "messages": [
+          {
+            "_id": "5cc8c4536796cb329cef474e",
+            "senderName": "Afshin Ahmadian",
+            "message": "Hi Ebrima, you need to put the link for your certificate, but not the link for SoloLearn main page.",
+            "createdAt": "2019-02-02T13:16:38.000Z"
+          }
+        ],
+        "urls": [
+          {
+            "_id": "5cc8c4536796cb329cef4752",
+            "url": "https://sololearn.com",
+            "status": "Rejected",
+            "createdAt": "2019-01-30T19:30:58.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4751",
+            "url": "https://www.sololearn.com/Certificate/1014-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-13T15:06:11.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef4750",
+            "url": "https://www.sololearn.com/Certificate/1023-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-14T17:29:42.000Z"
+          },
+          {
+            "_id": "5cc8c4536796cb329cef474f",
+            "url": "https://www.sololearn.com/Certificate/1024-12609842/pdf/",
+            "status": "Approved",
+            "createdAt": "2019-02-17T13:13:25.000Z"
+          }
+        ],
+        "createdAt": "2019-03-18T09:48:33.993Z",
+        "updatedAt": "2019-11-03T20:27:54.868Z",
+        "number": 3,
+        "optional": false,
+        "name": "freeCodeCamp",
+        "header": "Build a Tribute Page",
+        "image": "https://cyf-assets-buckets.s3.eu-west-2.amazonaws.com/1572373539511.jpg",
+        "description": "This step challenges you to build your own web page using the skills you learned in the tutorials.",
+        "instructions": "<ul><li>Register and complete the challenge by designing your own web page here using this link: <a href=\"https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page/\" target=\"_blank\" style=\"color: rgb(0, 123, 255);\">https://learn.freecodecamp.org/../build-a-tribute-page</a></li><li>Implement what you have learned from Step 2.</li><li>Include this test script line in your codepen HTML page:</li></ul><p><strong>&lt;script src=\"</strong><a href=\"https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js\" target=\"_blank\" style=\"color: rgba(var(--sk_highlight,18,100,163),1);\"><strong>https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js</strong></a><strong>\"&gt;&lt;/script&gt;</strong></p><ul><li>Review the test results and try to improve it</li><li>Do not copy the HTML/CSS code of the sample FCC page! We want to see your own effort</li><li>Ensure the page includes a title and an image with a caption</li><li>When your web page is complete, copy and paste the codepen link to your page in the field below and press Submit.</li></ul>",
+        "showImageUpload": false,
+        "showMotivationalLetter": false,
+        "showSubmitUrl": true,
+        "feedbackPoints": []
+      }
+    ]
   },
   {
     "_id": "5c8514c14b6bc9001c974c2b",

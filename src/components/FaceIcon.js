@@ -7,7 +7,7 @@ const FaceIcon = props => {
     faceIconVisibility = "hidden";
   }
 
-  return <MoodRoundedIcon className={faceIconVisibility} />;
+  return <MoodRoundedIcon className={`face-icon ${faceIconVisibility}`} />;
 };
 
 export default FaceIcon;

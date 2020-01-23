@@ -5,9 +5,9 @@ import ElapsedDate from "./ElapsedDate";
 
 const IconContainer = props => {
   return (
-    <div>
-      <CallIcon {...props} />
+    <div className="icon-container">
       <FaceIcon {...props} />
+      <CallIcon {...props} />
       <ElapsedDate {...props} />
     </div>
   );

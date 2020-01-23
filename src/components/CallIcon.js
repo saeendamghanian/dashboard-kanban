@@ -1,13 +1,13 @@
 import React from "react";
 import CallRoundedIcon from "@material-ui/icons/CallRounded";
-import { green, yellow, red } from "@material-ui/core/colors";
+import { green, yellow, red, grey } from "@material-ui/core/colors";
 
 const CallIcon = ({ student }) => {
   // The color pool for the different modes of call icon.
   let colors = {
     successful: green[500],
     unsuccessful: red[500],
-    notYet: yellow[500]
+    notYet: grey[500]
   };
   let CallIconColor;
   let phoneCallStatus =

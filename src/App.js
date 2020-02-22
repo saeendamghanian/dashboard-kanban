@@ -14,11 +14,11 @@ function App() {
       <BrowserRouter>
         <NavBar />
         <Switch>
-          <Route path="/" component={Welcome} exact />
-          <Route path="/kanban" component={KanbanBoard} />
-          <Route path="/list" component={ListView} />
+          <Route path="/dashboard-kanban/" component={Welcome} exact />
+          <Route path="/dashboard-kanban/kanban" component={KanbanBoard} />
+          <Route path="/dashboard-kanban/list" component={ListView} />
           <Route
-            path="/applicant/:id"
+            path="/dashboard-kanban/applicant/:id"
             component={ApplicantDetailPageContainer}
           />
           <Route path="*" component={Error404} />

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const ApplicantLabel = ({ student }) => {
   const { userId, fullName } = student;
-  const linkLocation = `/applicant/${fullName}`;
+  const linkLocation = `/dashboard-kanban/applicant/${fullName}`;
 
   return (
     <div className="applicant-name">

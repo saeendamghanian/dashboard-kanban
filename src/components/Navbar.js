@@ -8,13 +8,13 @@ class NavBar extends Component {
       <div>
         <ul className="navbar">
           <li className="navbar-item">
-            <Link to="/">Home</Link>
+            <Link to="/dashboard-kanban/">Home</Link>
           </li>
           <li className="navbar-item">
-            <Link to="/kanban">Kanban View</Link>
+            <Link to="/dashboard-kanban/kanban">Kanban View</Link>
           </li>
           <li className="navbar-item">
-            <Link to="/list">List View</Link>
+            <Link to="/dashboard-kanban/list">List View</Link>
           </li>
         </ul>
       </div>
